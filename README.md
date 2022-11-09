@@ -1,1 +1,1 @@
-Thank you, Striver, for the SDE sheet and for your awesome explanation of the algorithms used and the intuition behind them.
+This consists of the solutions for the problems in Striver's SDE sheet, which I have done in Python.
